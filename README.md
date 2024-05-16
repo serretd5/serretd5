@@ -4,4 +4,4 @@
 - ✨ I am working for SEAT S.A. in Bertrandt group as a data analyst and certification engineer.
 - 💞️ I’m looking to collaborate on any project related with machine learning, artificial intelligence, autonomous cars, or anything fin-tech related.
 - 📫 How to reach me: ericserretvalde@gmail.com
-- ⚡ Fun fact: I started my STEM career as a mechanical engineer, but I love programming, so I switched :D
+- ⚡ Fun fact: I started my STEM career as a mechanical engineer, but I love programming, so I switched to this now :D
